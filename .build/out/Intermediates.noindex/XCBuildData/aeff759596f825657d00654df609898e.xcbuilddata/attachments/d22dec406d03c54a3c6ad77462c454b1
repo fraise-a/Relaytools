@@ -1,0 +1,261 @@
+{
+  "" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.dia",
+    "emit-module-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary-emit-module.dia",
+    "pch" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/App/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/App/RelaytoolsApp.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/RelaytoolsApp.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/RelaytoolsApp.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/RelaytoolsApp.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Models/MazeLayout.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeLayout.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeLayout.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeLayout.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Models/MazeModels.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeModels.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeModels.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeModels.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Models/MazeRewards.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeRewards.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeRewards.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeRewards.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Scene/MazeSceneBuilder.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Scene/MazeSceneView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeSceneView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Services/MazeAI.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeAI.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeAI.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeAI.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Stores/MazeStore.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeStore.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeStore.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeStore.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Views/MazeButtonStyle.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeButtonStyle.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeButtonStyle.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeButtonStyle.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Views/MazeEncounterView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeEncounterView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeEncounterView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeEncounterView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Views/MazePlayView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazePlayView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazePlayView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazePlayView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Views/MazeResultsView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeResultsView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeResultsView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeResultsView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Views/MazeView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/MazeView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Models/AppAppearance.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppAppearance.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppAppearance.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppAppearance.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Models/TrainingModels.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingModels.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingModels.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingModels.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Content/QuickPicBank.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicBank.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicBank.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicBank.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Content/QuickPicEasy.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicEasy.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicEasy.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicEasy.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Content/QuickPicHard.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicHard.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicHard.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicHard.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Content/QuickPicMedium.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicMedium.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicMedium.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicMedium.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Models/QuickPicDeck.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicDeck.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicDeck.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicDeck.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Models/QuickPicFeedback.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Models/QuickPicModels.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Stores/QuickPicStore.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Views/QuickPicComponents.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicComponents.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicComponents.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicComponents.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Views/QuickPicPlayView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicPlayView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicPlayView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicPlayView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Views/QuickPicResultsView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicResultsView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicResultsView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicResultsView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Views/QuickPicReviewView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicReviewView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicReviewView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicReviewView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Views/QuickPicView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/QuickPicView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/ConversationContext.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ConversationContext.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ConversationContext.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ConversationContext.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/CustomerAI.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerAI.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerAI.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerAI.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/DemoCustomer.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/SessionReview.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SessionReview.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SessionReview.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SessionReview.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/VoiceService.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/VoiceService.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/VoiceService.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/VoiceService.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Stores/PracticeStore.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PracticeStore.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PracticeStore.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PracticeStore.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Stores/TrainingStore.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingStore.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingStore.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/TrainingStore.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Support/Brand.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Brand.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Brand.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Brand.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Support/DemoData.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoData.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoData.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DemoData.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Support/SampleBriefs.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SampleBriefs.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SampleBriefs.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SampleBriefs.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/AppearanceSettings.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppearanceSettings.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppearanceSettings.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/AppearanceSettings.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/Components.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Components.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/ContentView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/CustomerControls.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerControls.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerControls.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/CustomerControls.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/DashboardJourneyView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardJourneyView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardJourneyView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardJourneyView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/DashboardView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/DashboardView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/LeaderboardView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/LeaderboardView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/LeaderboardView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/LeaderboardView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/PitchSetupView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchSetupView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchSetupView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchSetupView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/PitchView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/PitchView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/ResultsView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ResultsView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ResultsView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/ResultsView.o"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Views/SidebarView.swift" : {
+    "index-unit-output-path" : "/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SidebarView.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SidebarView.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/SidebarView.o"
+  }
+}

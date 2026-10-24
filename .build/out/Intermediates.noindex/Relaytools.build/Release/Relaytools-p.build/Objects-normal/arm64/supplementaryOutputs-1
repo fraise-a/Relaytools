@@ -1,0 +1,11 @@
+{
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/App/AppDelegate.swift" : {
+    "abi-baseline-json" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools.abi.json",
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools-primary.dia",
+    "swiftdoc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools.swiftdoc",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools.swiftmodule",
+    "swiftsourceinfo" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Release/Relaytools-p.build/Objects-normal/arm64/Relaytools.swiftsourceinfo"
+  }
+}

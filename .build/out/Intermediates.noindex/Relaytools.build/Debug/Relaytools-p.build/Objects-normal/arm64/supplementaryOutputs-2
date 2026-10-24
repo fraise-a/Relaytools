@@ -1,0 +1,23 @@
+{
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Models/MazeModels.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeModels.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeModels.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeModels.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeModels.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeModels.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Models/MazeRewards.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeRewards.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeRewards.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeRewards.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeRewards.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeRewards.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Maze/Scene/MazeSceneBuilder.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/MazeSceneBuilder.swiftdeps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Models/QuickPicFeedback.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicFeedback.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Models/QuickPicModels.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicModels.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/QuickPic/Stores/QuickPicStore.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/QuickPicStore.swiftdeps"
+  }
+}

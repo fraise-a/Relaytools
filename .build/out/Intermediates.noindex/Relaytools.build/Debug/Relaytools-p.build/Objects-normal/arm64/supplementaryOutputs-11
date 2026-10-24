@@ -1,0 +1,23 @@
+{
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/CustomerAI.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/CustomerAI.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/CustomerAI.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/CustomerAI.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/CustomerAI.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/CustomerAI.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/DemoCustomer.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/DemoCustomer.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Sources/Relaytools/Services/SessionReview.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/SessionReview.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/SessionReview.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/SessionReview.dia",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/SessionReview.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/Relaytools-p.build/Objects-normal/arm64/SessionReview.swiftdeps"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RelaytoolsTests-primary.dia",
+    "emit-module-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RelaytoolsTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RelaytoolsTests-primary-emit-module.dia",
+    "pch" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RelaytoolsTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RelaytoolsTests-primary.swiftdeps"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/CrossToolTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/CrossToolTests~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/DebriefTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/DebriefTests~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/MazeTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/MazeTests~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/QuickPicTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/QuickPicTests~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/RegressionTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/RegressionTests~partial.swiftmodule"
+  },
+  "/Users/fraiseaurora/Documents/Lightfern/Relaytools/Tests/RelaytoolsTests/TrainingTests.swift" : {
+    "const-values" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.swiftconstvalues",
+    "dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.d",
+    "diagnostics" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.dia",
+    "index-unit-output-path" : "/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.o",
+    "llvm-bc" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.bc",
+    "object" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.o",
+    "swift-dependencies" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests.swiftdeps",
+    "swiftmodule" : "/Users/fraiseaurora/Documents/Lightfern/Relaytools/.build/out/Intermediates.noindex/Relaytools.build/Debug/RelaytoolsTests-p.build/Objects-normal/arm64/TrainingTests~partial.swiftmodule"
+  }
+}
