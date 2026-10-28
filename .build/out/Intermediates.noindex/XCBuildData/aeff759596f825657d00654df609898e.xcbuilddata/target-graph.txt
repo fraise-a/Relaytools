@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-Target 'AllExcludingTests' in project 'Aggregate'
-➜ Explicit dependency on target 'Relaytools-product' in project 'Relaytools'
-Target 'Relaytools-product' in project 'Relaytools' (no dependencies)
